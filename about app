@@ -1,1 +1,3 @@
-
+Images of Docker in Docker Hub
+Login and Password was written in Var, for security
+For start app, u need to write "docker-compose -f mongo-services.yaml -p projects up -d"
